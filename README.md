@@ -13,5 +13,5 @@ apt-get install curl jq -y
 ```
 
 安装完成可以直接运行一下脚本（这个脚本会初始化，如果跳过他可能会报错）
-- ```bash <(curl -Ls https://raw.githubusercontent.com/30661516a/open_cloud/main/opencloud.sh)```
+- ```bash <(curl -Ls https://raw.githubusercontent.com/30665161a/open_cloud/main/opencloud.sh)```
 
